@@ -1,4 +1,4 @@
-# Current handoff — 2026-11-24
+# Current handoff — 2026-11-27
 
 ## Why this repository exists
 One durable maker-space record across conversations. Organize by fabrication process, with a single project home for work that spans laser, printing, and CNC/routing. Update this file at significant milestones or before switching chats.
@@ -6,12 +6,12 @@ One durable maker-space record across conversations. Organize by fabrication pro
 ## Active threads
 
 ### NUT65 / 001
-- **Verified by user:** Black Weikav NUT65 ordered; walnut veneer sheets ordered. Goal is to **keep the NUT65 original mechanical and acoustic system** and make the outside black aluminum + genuine walnut.
+- **Verified by user (2026-11-27):** Black Weikav NUT65 and Real Wood Paper walnut sheets received. Goal is to **keep the NUT65 original mechanical and acoustic system** and make the outside black aluminum + genuine walnut.
 - **Planned:** Begin with laser-cut Real Wood Paper walnut veneer on the wide top bezel, inspect fit and appearance before bonding.
 - **Aspirational:** Mode Encore-inspired **flush** walnut accent, ideally using 1/8-in (3.175 mm) walnut stock; a recessed pocket cannot be dimensioned until the bezel is inspected and wall thickness verified. Wood can be thinned from the underside.
 - **Aspirational:** Custom removable copper bottom weight; do not assume weight geometry, hole locations, or attachment until measured.
 - **Active fabrication idea:** Reusable miniature precision router sled with removable NUT65 bezel cradle, constrained travel, and test stock. Full aluminum milling with a handheld wood router is *not yet qualified*.
-- **Next:** Test the veneer approach after arrival; photograph/measure bare upper bezel top and underside; establish available material thickness and keycap/case-opening clearances. Prototype router sled on wood before any scrap-aluminum test.
+- **Next:** Document stock NUT65 sound/feel; photograph and measure the received bezel top and underside, check sheet backing/thickness, and test cardboard template before cutting walnut. Establish available material thickness and case/keycap clearances. Prototype router sled on wood before any scrap-aluminum test.
 
 ### Walnut MK61 / GH60
 - **Verified by user:** Existing walnut case + preferred GMK Stealth Colorized keycaps; user's benchmark is a deeper, fuller tray-mounted GK61 sound. Support/mounting is principal hypothesis.
