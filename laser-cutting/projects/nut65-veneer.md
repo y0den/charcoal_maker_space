@@ -1,6 +1,6 @@
 # NUT65 walnut veneer first-pass
 
-**Status:** Real Wood Paper walnut sheets ordered, keyboard black NUT65 ordered; no cut yet.
+**Status:** Black NUT65 and Real Wood Paper walnut sheets received (2026-11-27); no template, laser test or physical fit result documented yet.
 
 ## Desired result
 A precision-fit genuine walnut accent on the stock wide upper black aluminum bezel. Mode Encore is an aesthetic reference only; preserve visible black reveal and factory case opening. This first pass is reversible or low-risk if possible.
