@@ -1,6 +1,6 @@
 # Charcoal NUT65 / 001
 
-**Status:** Keyboard and walnut sheets ordered; hardware not yet measured for inlay work.
+**Status:** Black NUT65 and Real Wood Paper walnut sheets physically received (user confirmed 2026-11-27); inspection, measurement and baseline testing not yet documented.
 **Goal:** One-of-one black aluminum NUT65 with real walnut, preserving stock mechanical quality, mounting, and desired deep acoustic character.
 
 ## Non-negotiables
@@ -37,6 +37,6 @@
 - Before/after typing sound recorded with unchanged acoustic setup if assessing sound.
 
 ## Immediate next actions
-- Receive keyboard and veneer; photograph and measure before modifying.
+- With keyboard and veneer now on hand, photograph top, underside and seam; measure before modifying.
 - Prototype paper/cardstock, then veneer on the laser.
 - Decide whether the appearance already meets the target before undertaking aluminum cuts.
